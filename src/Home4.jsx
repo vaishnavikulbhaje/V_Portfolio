@@ -14,7 +14,7 @@ function Home4() {
       </div>
       <div className="grid grid-cols-1 sm:grid-cols-2  lg:grid-cols-2 px-10 pt-12 gap-3 sm:gap-20 lg:gap-20">
       <div className="rounded-2xl p-[2px] bg-gradient-to-r from-blue-800 via-blue-900 to-[#06002e] hover:scale-90 ease-in-out duration-300">
-      <div className="border border-white bg-cover p-10 bg-[url('src/assets/sapfix-bg.png')] bg-center bg-no-repeat bg-blend-overlay bg-black/80 w-full h-full lg:hover:bg-[#05011f]/100 transition-all duration-500 text-white  hover:text-white rounded-2xl md:hover:bg-transparent hover:scale-80 ease-in-out ">
+      <div className="border border-white bg-cover p-10 bg-[url('./src/assets/sapfix-bg.png')] bg-center bg-no-repeat bg-blend-overlay bg-black/80 w-full h-full lg:hover:bg-[#05011f]/100 transition-all duration-500 text-white  hover:text-white rounded-2xl md:hover:bg-transparent hover:scale-80 ease-in-out ">
             <h1 className="text-center font-serif text-4xl ">SnapFix</h1>
             <h3 className="text-center  font-mono">
               React.js | Taildwind | Google-Sheet
@@ -29,7 +29,7 @@ function Home4() {
         </div>
 
         <div className="rounded-2xl p-[2px] bg-gradient-to-r from-blue-800 via-blue-900 to-[#06002e] hover:scale-90 ease-in-out duration-300">
-          <div className="border border-white bg-cover p-10 bg-[url('src/assets/eastdepo.jpg')] bg-center bg-no-repeat bg-blend-overlay bg-black/80 w-full h-full lg:hover:bg-[#05011f]/100 transition-all duration-500 text-white  hover:text-white rounded-2xl md:hover:bg-transparent hover:scale-80 ease-in-out  ">
+          <div className="border border-white bg-cover p-10 bg-[url('./src/assets/eastdepo.jpg')] bg-center bg-no-repeat bg-blend-overlay bg-black/80 w-full h-full lg:hover:bg-[#05011f]/100 transition-all duration-500 text-white  hover:text-white rounded-2xl md:hover:bg-transparent hover:scale-80 ease-in-out  ">
             <h1 className="text-center font-serif text-4xl ">Easy- Depot</h1>
             <h3 className="text-center  font-mono">
               React.js | Taildwind | MongoDB | Node.js | Express.js
@@ -47,7 +47,7 @@ function Home4() {
       </div>
       <div className="grid grid-cols-1 sm:grid-cols-2  lg:grid-cols-2 px-10 pt-3 gap-3 sm:gap-20 lg:gap-20">
       <div className="rounded-2xl p-[2px] bg-gradient-to-r from-blue-800 via-blue-900 to-[#06002e] hover:scale-90 ease-in-out duration-300">
-      <div className="border border-white bg-cover p-10 bg-[url('src/assets/passwordgenerator.png')] bg-center bg-no-repeat bg-blend-overlay bg-black/80 w-full h-full lg:hover:bg-[#05011f]/100 transition-all duration-300 text-white ease-in-out hover:text-white rounded-2xl md:hover:bg-transparent hover:scale-80 ">
+      <div className="border border-white bg-cover p-10 bg-[url('./src/assets/passwordgenerator.png')] bg-center bg-no-repeat bg-blend-overlay bg-black/80 w-full h-full lg:hover:bg-[#05011f]/100 transition-all duration-300 text-white ease-in-out hover:text-white rounded-2xl md:hover:bg-transparent hover:scale-80 ">
             <h1 className="text-center font-serif text-4xl ">
               Password Generator
             </h1>
@@ -67,7 +67,7 @@ function Home4() {
         </div>
 
         <div className="rounded-2xl p-[2px] bg-gradient-to-r from-blue-800 via-blue-900 to-[#06002e] hover:scale-90 ease-in-out duration-300">
-          <div className="border border-white bg-cover p-10 bg-[url('src/assets/payrollsystem.png')] bg-center bg-no-repeat bg-blend-overlay bg-black/80 w-full h-full lg:hover:bg-[#05011f]/100 transition-all duration-300 text-white ease-in-out hover:text-white rounded-2xl md:hover:bg-transparent hover:scale-80 ">
+          <div className="border border-white bg-cover p-10 bg-[url('./src/assets/payrollsystem.png')] bg-center bg-no-repeat bg-blend-overlay bg-black/80 w-full h-full lg:hover:bg-[#05011f]/100 transition-all duration-300 text-white ease-in-out hover:text-white rounded-2xl md:hover:bg-transparent hover:scale-80 ">
             <h1 className="text-center font-serif text-4xl ">
               Employee-Management System
             </h1>

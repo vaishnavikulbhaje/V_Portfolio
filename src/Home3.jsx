@@ -14,7 +14,7 @@ function Home3() {
           <a href="https://www.ayatifoundation.org/" target="_blank">        
           <img
             className="rounded-2xl  h-[334px]" 
-            src="src/assets/Ayati-bg.png" alt="Ayati.png" />
+            src="./src/assets/Ayati-bg.png" alt="Ayati.png" />
             </a>  
           </div>
         </div>
